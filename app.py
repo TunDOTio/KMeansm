@@ -13,7 +13,7 @@ from sklearn.datasets import make_blobs
 st.set_page_config(page_title="K-Means Clustering", layout="centered")
 
 #set the title
-st.title("K-Means Clustering Visualizer by Peerawit Kubang")
+st.title("K-Means Clustering Visualizer by Peerawit Kubang 6531501163")
 
 #load model
 with open('kmeans_model.pkl', 'rb') as f:
